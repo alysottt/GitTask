@@ -5,5 +5,6 @@
 </head>
 <h2 style="text-align:center">Text</h2>
 <p><?= file_get_contents(__DIR__ . "/file1.txt")?></p>
+<p><?= file_get_contents(__DIR__ . "/file2.txt")?></p>
 </body>
 </html>
